@@ -1,6 +1,6 @@
 {
   "name": "Genome-Peptide-Structure",
-  "tagline": "A workshop to discuss interconnection of PDB, Kaviar, PeptideAtlas, and TPP, for BD Spokes Planning Grant",
-  "body": "A two-day workshop at the Institute for Systems Biology in Seattle, Washington, for collaborators and other researchers working toward the interconnection of genomic, proteomic, and protein structure data.\r\n\r\nThe workshop will take place sometime during the first two weeks of January, 2017.\r\n\r\nContact Eric Deutsch, edeutsch@systemsbiology.org, if you are interested in being invited to the meeting.\r\n\r\n__Tentative workshop schedule__\r\n\r\n_Day 1_\r\n\r\n_Day 2_\r\n",
+  "tagline": "A workshop to discuss interconnection of PDB, Kaviar, PeptideAtlas, and TPP",
+  "body": "A two-day workshop at the Institute for Systems Biology in Seattle, Washington, for collaborators and other researchers working toward the interconnection of genomic, proteomic, and protein structure data. Our ultimate goal is to tie together four established resources: the RCSB [Protein Data Bank](rcsb.org), the [Kaviar](db.systemsbiology.org/kaviar) database of human genomic variation, the [PeptideAtlas](www.peptideatlas.org) proteomics data compendium, and the [Trans-Proteomic Pipeline](http://tools.proteomecenter.org/wiki/index.php?title=Software:TPP) software.\r\n\r\nThis workshop is funded by a Big Data Spoke Planning Grant.\r\n\r\nThe workshop will take place sometime during the first two weeks of January, 2017.\r\n\r\nContact Eric Deutsch, edeutsch@systemsbiology.org, if you are interested in being invited.\r\n\r\n__Tentative workshop schedule__\r\n\r\n_Day 1_\r\n\r\n_Day 2_",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
