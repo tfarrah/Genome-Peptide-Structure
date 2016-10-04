@@ -2,6 +2,8 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
+    <script   src="http://code.jquery.com/jquery-2.2.4.min.js"   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="   crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <title>Genevariation 3D</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
@@ -11,6 +13,7 @@
   </head>
   <body>
     <section class="page-header">
+      <img data-toggle="tooltip" src="img/snp3d.png" height="100px" width="100px" style="float:left;" title="The location of a BRCA1 variant mapped to the wildtype structure. The variant disrupts the zinc finger binding motif and has been implicated in breast-ovarian cancer."/>
       <h1 class="project-name">Genevariation - 3D </h1>
       <h2 class="project-tagline">A workshop to discuss interconnection of genetic variation data, PDB, Kaviar, PeptideAtlas, and TPP</h2>
     </section>
@@ -19,14 +22,14 @@
       <p>A two-day workshop at the <a href="systemsbiology.org">Institute for Systems Biology</a> in Seattle, Washington, for collaborators and other researchers working toward the interconnection of genomic, proteomic, and protein structure data. Our ultimate goal is to tie together genetic variation data with protein level information, by using the four established resources as a driving force:</p>
 
 <ul>
-<li>the RCSB <a href="http://rcsb.org">Protein Data Bank</a>
+<li>The RCSB <a href="http://rcsb.org">Protein Data Bank</a>
 </li>
-<li>the <a href="http://db.systemsbiology.org/kaviar">Kaviar</a> database of human genomic variation</li>
-<li>the <a href="http://www.peptideatlas.org">PeptideAtlas</a> proteomics data compendium</li>
-<li>the <a href="http://tools.proteomecenter.org/wiki/index.php?title=Software:TPP">Trans-Proteomic Pipeline</a> software</li>
+<li>The <a href="http://db.systemsbiology.org/kaviar">Kaviar</a> database of human genomic variation</li>
+<li>The <a href="http://www.peptideatlas.org">PeptideAtlas</a> proteomics data compendium</li>
+<li>The <a href="http://tools.proteomecenter.org/wiki/index.php?title=Software:TPP">Trans-Proteomic Pipeline</a> software</li>
 </ul>
 
-<p>This workshop is funded by a <a href="http://genevariation3d.org/bdspokes-proposal.pdf">Big Data Spoke Planning Grant</a>.</p>
+<p>This workshop is funded by a <a href="http://genevariation3d.org/bdspokes-proposal.pdf">Big Data Spoke Planning Grant</a> and is part of the <a href="http://westbigdatahub.org/spoke-projects/">West Big Data Innovation Hub</a>.</p>
 
 <p>The workshop will take place sometime during the first two weeks of January, 2017.</p>
 
@@ -81,10 +84,16 @@
       </footer>
 
     </section>
-
   
   </body>
 <script>
+
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip();
+});
+
+<!-- GA stuff -->
+
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
