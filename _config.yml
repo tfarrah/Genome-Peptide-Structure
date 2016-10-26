@@ -59,7 +59,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Genevariation3d workshop <typeout> 2017"
+heroTitle: "<typeout> Genevariation3d workshop 2017"
 eventDate: "February 9th, 10th, 2017"
 typeoutTextValues: '"", "Institute for Systems Biology", "Seattle", "Washington", "USA"'
 typeoutFallback: "ISB"
@@ -90,7 +90,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Institue of Systems Biology"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventLocationLink: "https://www.systemsbiology.org"
 eventStreetAddress: "401 Terry Ave N"
 eventAddressLocality: "Seattle"
 eventAddressLocalityRegion: "Washington"
