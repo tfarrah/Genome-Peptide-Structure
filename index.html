@@ -1,136 +1,21 @@
-<!DOCTYPE html>
-<html lang="en-us">
-  <head>
-    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/manifest.json">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-    <meta name="theme-color" content="#ffffff">
-    <meta charset="UTF-8">
-    <script   src="http://code.jquery.com/jquery-2.2.4.min.js"   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="   crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <title>Genevariation 3D</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-  </head>
-  <body>
-    <section class="page-header">
-      <row>
-	<div class="text-right">
-      <img data-toggle="tooltip" data-placement="bottom" 
-	   
-	   src="img/snp3d.png" 
-	   height="100px" width="100px" style="float:left;" 
-	   title="The location of a BRCA1 variant mapped to the wildtype structure. The variant disrupts the zinc finger binding motif and has been implicated in breast-ovarian cancer."/>
-      </div>
-<div>
-      <h1 class="project-name">Genevariation - 3D </h1>
-      <h2 class="project-tagline">A workshop to discuss interconnection of genetic variation data, protein sequence, and 3D structural information.</h2>
-</div>
-      </row>
-    </section>
+---
+layout: default
+permalink: /
+---
 
-    <section class="main-content">
-      <p>A two-day workshop at the <a href="http://www.systemsbiology.org">Institute for Systems Biology</a> in Seattle, Washington, for collaborators and other researchers working toward the interconnection of genomic, proteomic, and protein structure data. Our ultimate goal is to tie together genetic variation data with protein level information, by using the four established resources (and others, yet to be determined) as a driving force:</p>
+ {% include hero.html %}
 
-<ul>
-<li>The <a href="http://rcsb.org">RCSB Protein Data Bank</a>
-</li>
-<li>The <a href="http://db.systemsbiology.org/kaviar">Kaviar</a> database of human genomic variation</li>
-<li>The <a href="http://www.peptideatlas.org">PeptideAtlas</a> proteomics data compendium</li>
-<li>The <a href="http://tools.proteomecenter.org/wiki/index.php?title=Software:TPP">Trans-Proteomic Pipeline</a> software</li>
-</ul>
-	    
-	    <p>To get a sense for how this interconnection might work, and how it would aid research, read this <a href="https://docs.google.com/document/d/1NmLOUoMCbGqYZjB98Ta0WzcGRQFbzqy0_Fufy125V0Q/pub">use case from recent research in inflammatory bowel disease (IBD)</a> </p>
+ {% include about.html %}
 
-<p>This workshop is funded by a <a href="http://genevariation3d.org/bdspokes-proposal.pdf">Big Data Spoke Planning Grant</a> and is part of the <a href="http://westbigdatahub.org/spoke-projects/">West Big Data Innovation Hub</a>.</p>
+ {% include statistic.html %}
 
-<p>The workshop will take place sometime during the first two weeks of February, 2017.</p>
+ {% include latest-news.html %}
 
-<p>Contact Eric Deutsch, <a href="mailto:edeutsch@systemsbiology.org">edeutsch@systemsbiology.org</a>, if you are interested in being invited.</p>
+ {% include rockstar-speakers.html %}
 
-<p><strong>Tentative workshop schedule</strong></p>
+ {% include location-map.html %}
 
-<p><em>Day 1</em></p>
+ {% include twitter-feed.html %}
 
-<pre>
-8:30 Registration, light breakfast
-9:00 Welcome and background
- 
-9:30 Participant presentations 1: Protein structures
-10:30 Break
- 
-11:00 Participant presentations 2: Genetic variations
-12:00 Lunch
- 
-1:00 Participant presentations 3: Mapping variations to structures
-2:00 Discussion
- 
-3:00 Break
-3:30 Participant presentations 4: Applications
-4:30 Discussion
- 
-5:00 Finish Day 1
-</pre>
+ {% include partners.html %}
 
-
-
-<p><em>Day 2</em></p>
-<pre>
-
-8:30 Light breakfast
-9:00 Participant presentations 5: Big Data Technologies
-10:30 Break
- 
-11:00 Breakout discussions 1
-12:30 Lunch
- 
-1:30 Breakout discussions 2
-3:00 Break
- 
-3:30 Summary of breakouts, plans for collaboration, discussion
-5:00 Finish
-</pre>
-      <footer class="site-footer">
-        <span class="site-footer-owner"><a href="https://github.com/genevariation3d/genevariation3d.github.io.git">Genevariation - 3D</a> is maintained by <a href="https://github.com/tfarrah">tfarrah</a>.</span>
-
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
-      </footer>
-
-    </section>
-  
-  </body>
-<script>
-
-$(function () {
-  $('[data-toggle="tooltip"]').tooltip();
-});
-
-<!-- GA stuff -->
-
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-85181317-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-</html>
