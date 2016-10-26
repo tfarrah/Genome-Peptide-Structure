@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://genevariation3d.org/blog/hello-world</loc>
+<lastmod>2016-10-26T01:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://genevariation3d.org/about/</loc>
+</url>
+<url>
+<loc>http://genevariation3d.org/blog/</loc>
+</url>
+<url>
+<loc>http://genevariation3d.org/cod/</loc>
+</url>
+<url>
+<loc>http://genevariation3d.org/</loc>
+</url>
+<url>
+<loc>http://genevariation3d.org/logistics/</loc>
+</url>
+<url>
+<loc>http://genevariation3d.org/resources/</loc>
+</url>
+<url>
+<loc>http://genevariation3d.org/schedule/</loc>
+</url>
+<url>
+<loc>http://genevariation3d.org/speakers/</loc>
+</url>
+<url>
+<loc>http://genevariation3d.org/team/</loc>
+</url>
+<url>
+<loc>http://genevariation3d.org/usecases/</loc>
+</url>
+</urlset>

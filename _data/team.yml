@@ -1,0 +1,55 @@
+-
+  id: 0
+  name: "Eric"
+  surname: "Deutsch"
+  title: "Senior Research Scientist"
+  thumbnailUrl: EricDeutsch.jpg
+  team: true
+  ribbon: 
+    - {abbr: "ISB", title: "Institute for Systems Biology"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ericwdeutsch"}
+    - {name: "github", link: "https://github.com/edeutsch"}
+- 
+  id: 1
+  name: "Andreas"
+  surname: "Prlic"
+  title: "Technical and Scientific Team Lead RCSB Protein Data Bank"
+  thumbnailUrl: AndreasPrlic.jpg
+  team: true
+  ribbon: 
+    - {abbr: "RCSB PDB", title: "RCSB Protein Data Bank"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/andorsch"}
+    - {name: "github", link: "https://github.com/andreasprlic"}
+    - {name: "site", link: "http://www.spice-3d.org/"}
+- 
+  id: 2
+  name: "Peter"
+  surname: "Rose"
+  title: "Site Head, RCSB PDB West"
+  thumbnailUrl: PeterRose.jpg
+  team: true
+  ribbon:   
+    - {abbr: "RCSB PDB", title: "RCSB Protein Data Bank"}
+  social: 
+    - {name: "github", link: "https://github.com/pwrose"}
+-  
+   id: 3
+   name: "Gustavo"
+   surname: "Gusman"
+   team: true
+   thumbnailUrl: GustavoGusman.jpg
+-
+  id: 4
+  name: "Terry"
+  surname: "Farrah"
+  team: true
+  thumbnailUrl: TerryFarrah.jpg
+-
+  id: 5
+  name: "Jennifer"
+  surname: "Dougherty"
+  team: true
+  thumbnailUrl: JenniferDougherty.jpg
+-  

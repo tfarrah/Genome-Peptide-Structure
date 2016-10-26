@@ -1,0 +1,9 @@
+- 
+  group: "Main organizer"
+  elements: 
+    - {name: "Genevariation3d.org", description: "A workshop to discuss interconnection of genetic variation data, protein sequence, and 3D structural information.", link: "http://genevariation3d.org", imageUrl: "snp3d.png"}
+- 
+  group: "Co-organizers"
+  elements: 
+    - {name: "ISB", description: "Institute for Systems Biology", link: "http://systemsbiology.org", imageUrl: "isb.png"}
+    - {name: "RCSB PDB", description: "RCSB Protein Data Bank", link: "http://www.rcsb.org", imageUrl: "rcsb_logo.png"}
