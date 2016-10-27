@@ -15,20 +15,39 @@
                         <p>{{ card.information }}</p>
                     </div>
                 </div>
+
+
+
                 {% assign animationDelay = animationDelay | plus:500 %}
                 {% endfor %}
-                
+
                 {% for wideCard in site.directionDetailsWideCards %}
                 <div class="col-md-12 col-xs-12 animated hiding" data-animation="fadeInDown" data-delay="0">
                     <div class="card questions">
                         <h4>{{ wideCard.title }}</h4>
+                        <p>For convenience, ISB has established accounts with some of the following hotels.
+                          To reserve a room through the ISB preferred hotels, simply call the reservation line of
+                          the specified hotels and mention the ISB preferred rate.</p>
+
+                        <p>Before booking at ISB prices, <a target="_blank" href="http://www.hotels.com/">check
+                          current street prices for rooms at hotels.com</a>,
+                          which are sometimes better. Make sure to check the reviews of any hotels not listed below, as there are some unpleasant hotels
+                          in the area.</p>
+
                         {% for subCard in wideCard.subCards %}
                         {% assign wideCardColWidth = 12 | divided_by: forloop.length %}
                         <div class="col-md-{{ wideCardColWidth }} col-xs-12">
                             <h5>{{ subCard.title }}</h5>
+                            <hr/>
                             <ul>
                                 {% for linkElement in subCard.links %}
-                                <li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
+                                <li>
+                                  <a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a>
+                                  <p>{{ linkElement.cost}}</p>
+                                  <p>Distance to ISB: {{ linkElement.distance }}</p>
+                                  <p>{{ linkElement.note }}</p>
+                                  <hr/>
+                                </li>
                                 {% endfor %}
                             </ul>
                         </div>
