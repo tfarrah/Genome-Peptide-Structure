@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Genevariation 3D"
-email: "andreas@rcsb.org"
+email: "edeutsch@systemsbiology.org"
 description: "A workshop to discuss interconnection of precision medicine, genetic variation data, protein sequence, and 3D structural information."
 baseurl: ""
 url: "http://genevariation3d.org"
@@ -19,21 +19,22 @@ permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-85181317-1"
 googleAnalyticsSiteUrl: "genevariation3d.org"
 siteVerification: "0p6-cgaWBJl3VReLF3lySDRuZ8G4huQfAX1SM4JqrBU"
+isbImage: "isb.jpg"
 
 # Organizer Info
 organizerName: "genevariation3d.org"
 organizerAlternateName: "Gene Variation 3D"
 organizerDescription: "A Big Data Spoke Planning Grant and is part of the West Big Data Innovation Hub."
-organizerEmail: "andreas@rcsb.org"
+organizerEmail: "edeutsch@systemsbiology.org,andreas.prlic@rcsb.org"
 organizerLogo: "/img/about-section/snp3d.png"
 organizerLink: "http://genevariation3d.org"
 
 # Head
 metaKeywords: "event, gene variation, precision medicine, workshop, proteomics, genomics, 3D structure, big data, west big data hub"
 twitterAccount: "@ericwdeutsch"
-#socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-#socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-#socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 #c4pUrl: "https://bit.ly/dfua-c4p"
@@ -89,7 +90,7 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Institue of Systems Biology"
+eventLocationName: "Institue for Systems Biology"
 eventLocationLink: "https://www.systemsbiology.org"
 eventStreetAddress: "401 Terry Ave N"
 eventAddressLocality: "Seattle"
