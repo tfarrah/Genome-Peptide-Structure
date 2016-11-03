@@ -221,8 +221,14 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Seattle"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://sea.aero">airport website</a>.'}
- - {title: "Public Transit", information: 'Public Transportation is available in Seattle. You can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Seattle.'}
+ - {title: "Parking Options", 
+    information: 'There is no onsite parking available at ISB for event attendees. We recommend street parking or garages in the area. There are a variety of pay-to-park options nearby ISB you can use. Click to view <a href="https://en.parkopedia.com/parking/401_terry_ave_n_98109/">pay-to-park options</a>.<br/>
+
+One nearby parking garage is located west of the ISB building. More info <a href="https://lots.impark.com/IMP/en?latlng=47.623028,-122.33819800000003&q=428 Westlake Ave N%2C Seattle%2C WA%2C United States&a=#details=25,48">here</a>. The early bird (in before 10am) daily rate is $15.00. '}
+ - {title: "Driving Directions", 
+    information: '<h5>From Everett via I-5 S</h5> <p>Travel south on Interstate 5. Take the Mercer Exit 167 toward Seattle Center. Use the left 2 lanes to turn left onto Fairciew Ave N. Turn right onto Harrison St. Turn right onto Terry Ave N. Institute for Systems Biology will be on your left. </p>
+<h5>From Olympia via I-5 N</h5><p>Travel north on Interstate 5. Take the Mercer Exit 167 toward Seattle Center. Use the left 2 lanes to turn left onto Fairciew Ave N. Turn right onto Harrison St. Turn right onto Terry Ave N. Institute for Systems Biology will be on your left. </p>'}
+
  - {title: "Hotels", information: 'Seattle has lots of great hotels and hostels. See below for a list of suggestions.'}
 directionDetailsWideCards:
  -
