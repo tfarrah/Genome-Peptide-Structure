@@ -238,13 +238,6 @@ directionDetailsWideCards:
     title: "Hotels"
     links:
      - {
-        link: "https://www.panpacific.com/en/hotels-resorts/united-states/seattle.html",
-        text: "Pan Pacific Seattle",
-        cost: "ISB price: $225 (Dbl), $245 (K,Q) per night",
-        distance: ".3 mi",
-        telephone: "(206) 264-8111"
-        }
-     - {
         link: "http://www.hotelmaxseattle.com",
         text: "Hotel Max",
         cost: "ISB Price: $189 per night",
