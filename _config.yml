@@ -32,9 +32,9 @@ organizerLink: "http://genevariation3d.org"
 # Head
 metaKeywords: "event, gene variation, precision medicine, workshop, proteomics, genomics, 3D structure, big data, west big data hub"
 twitterAccount: "@ericwdeutsch"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png?v=3"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png?v=3"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png?v=3"
 
 # Documents
 #c4pUrl: "https://bit.ly/dfua-c4p"
