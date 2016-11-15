@@ -60,18 +60,19 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "<typeout> Genevariation3d workshop 2017"
+heroTitle: "<typeout> Gene Variation 3D Workshop 2017"
 eventDate: "February 9th, 10th, 2017"
 typeoutTextValues: '"", "Institute for Systems Biology", "Seattle", "Washington", "USA"'
 typeoutFallback: "ISB"
 heroButtons:
+ - {permalink: "/register", text: "Register"}
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About Genevariation3d workshop"
+aboutTitle: "About Gene Variation 3D Workshop"
 aboutBlock:
- - {title: "Workshop", image: "conference.jpg", text: "A two-day workshop at the Institute for Systems Biology in Seattle, Washington, for collaborators and other researchers working toward the interconnection of precision medicine, genomic, proteomic, and protein structure data." }
+ - {title: "Workshop", image: "conference.jpg", text: "A two-day workshop at the Institute for Systems Biology in Seattle, Washington, for researchers working toward the interconnection of precision medicine, genomic, proteomic, and protein structure data." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
