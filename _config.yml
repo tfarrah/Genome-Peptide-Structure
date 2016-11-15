@@ -32,9 +32,9 @@ organizerLink: "http://genevariation3d.org"
 # Head
 metaKeywords: "event, gene variation, precision medicine, workshop, proteomics, genomics, 3D structure, big data, west big data hub"
 twitterAccount: "@ericwdeutsch"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png?v=2"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png?v=2"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png?v=2"
 
 # Documents
 #c4pUrl: "https://bit.ly/dfua-c4p"
@@ -221,11 +221,11 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Seattle"
 directionDetailsCards:
- - {title: "Parking Options", 
+ - {title: "Parking Options",
     information: 'There is no onsite parking available at ISB for event attendees. We recommend street parking or garages in the area. There are a variety of pay-to-park options nearby ISB you can use. Click to view <a href="https://en.parkopedia.com/parking/401_terry_ave_n_98109/">pay-to-park options</a>.<br/>
 
 One nearby parking garage is located west of the ISB building. More info <a href="https://lots.impark.com/IMP/en?latlng=47.623028,-122.33819800000003&q=428 Westlake Ave N%2C Seattle%2C WA%2C United States&a=#details=25,48">here</a>. The early bird (in before 10am) daily rate is $15.00. '}
- - {title: "Driving Directions", 
+ - {title: "Driving Directions",
     information: '<h5>From Everett via I-5 S</h5> <p>Travel south on Interstate 5. Take the Mercer Exit 167 toward Seattle Center. Use the left 2 lanes to turn left onto Fairciew Ave N. Turn right onto Harrison St. Turn right onto Terry Ave N. Institute for Systems Biology will be on your left. </p>
 <h5>From Olympia via I-5 N</h5><p>Travel north on Interstate 5. Take the Mercer Exit 167 toward Seattle Center. Use the left 2 lanes to turn left onto Fairciew Ave N. Turn right onto Harrison St. Turn right onto Terry Ave N. Institute for Systems Biology will be on your left. </p>'}
 
