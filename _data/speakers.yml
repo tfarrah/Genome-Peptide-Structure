@@ -1,0 +1,236 @@
+-
+  id: 1
+  name: "Stephen K."
+  surname: "Burley"
+  company: "RCSB PDB, Rutgers University"
+  title: "Director, RCSB PDB, Center for Integrative Proteomics Research (CIPR)"
+  bio: "Stephen Burley is an expert in structural biology, proteomics, bioinformatics, structure/fragment based drug discovery, and clinical medicine/oncology."
+  thumbnailUrl: StephenKBurley.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "RCSB PDB, Rutgers University", title: "Rutgers University", url: "http://public.proteomics.rutgers.edu/node/9"}
+-
+  id: 2
+  name: "Marija"
+  surname: "Buljan"
+  company: "ETH Zurich"
+  title: ""
+  bio: "Marija's research focuses on how disease-associated mutations affect the choice and affinity of protein interactions and how this then affects the cellular function."
+  thumbnailUrl: MarijaBuljan.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "ETH Zurich", title: "ETH Zurich", url: "http://www.imsb.ethz.ch/research/aebersold/people/Marijabuljan.html"}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/mare.buljan"}
+-
+  id: 3
+  name: "Elizabeth"
+  surname: "Brunk"
+  company: "UCSD"
+  title: ""
+  bio: "Elizabeth is a Computational scientist with a focus on developing and applying workflows that integrate large-scale data sets, network-based analysis and structure-based modeling."
+  thumbnailUrl: ElizabethBrunk.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "UCSD", title: "UCSD", url: "https://elizabethbrunk.wordpress.com/"}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/liz.brunk"}
+    - {name: "linkedin", link: "http://lnkd.in/b_-a8-U"}
+    - {name: "twitter", link: "https://twitter.com/ecbrunk"}
+-
+    id: 4
+    name: "Hannah"
+    surname: "Carter"
+    company: "UCSD"
+    title: ""
+    bio: "Dr. Hannah Carter’s research focuses on computationally modeling how DNA mutations in tumor genomes impact intracellular biological processes and cellular behaviors, and how these cellular level changes cause cancer."
+    thumbnailUrl: HannahCarter.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "UCSD", title: "UCSD", url: "https://healthsciences.ucsd.edu/som/medicine/divisions/med-genetics/research/Pages/carter-lab.aspx"}
+-
+    id: 5
+    name: "Gil"
+    surname: "Omenn"
+    company: "University of Michigan"
+    title: "Director, Center for Computational Medicine and Bioinformatics"
+    bio: "Dr. Omenn's research focuses on cancer proteomics and informatics. He is especially interested in the role of differential expression of alternative splice isoforms of proteins and transcripts in specific cancer-related pathways."
+    thumbnailUrl: GilbertSOmenn.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "U. Michigan", title: "U. Michigan", url: "http://www.ccmb.med.umich.edu/omenn"}
+-
+    id: 6
+    name: "Emøke"
+    surname: "Bendixen"
+    company: "Aarhus University"
+    title: ""
+    bio: "Proteomics applied to farm animal sciences"
+    thumbnailUrl: EBendixen.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "Aarhus University", title: "Aarhus University", url: "http://pure.au.dk/portal/en/emoke.bendixen@agrsci.dk"}
+-
+    id: 7
+    name: "Yang"
+    surname: "Zhang"
+    company: "U. Michigan"
+    title: ""
+    bio: "One of the main focuses of the Zhang lab is to develop computational methods to predict 3-dimensional structure of protein molecules from amino acid sequence, and to deduce the biological functions based on the sequence-to-structure-to-function paradigm."
+    thumbnailUrl: YangZhang.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "U. Michigan", title: "U. Michigan", url: "http://zhanglab.ccmb.med.umich.edu/"}
+-
+    id: 8
+    name: "Ariel"
+    surname: "Rokem"
+    company: "University of Washington eScience Institute"
+    title: ""
+    bio: "Ariel creates and facilitates the use of ideas, processes and technologies that advance data-intensive discovery in all fields."
+    thumbnailUrl: ArielRokem.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "U. Washington", title: "University of Washington", url: "http://arokem.org/"}
+-
+    id: 9
+    name: "Gustavo"
+    surname: "Glusman"
+    company: "Institute for Systems Biology - Kaviar database"
+    title: ""
+    bio: "Dr. Glusman investigates genome structure and evolution; multi-gene families; prediction and discovery of genes and transcripts; genes not coding for proteins; visualization of complex data; and image analysis."
+    thumbnailUrl: GustavoGusman.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "ISB", title: "Institute for Systems Biology", url: "https://www.systemsbiology.org/bio/gustavo-glusman-phd/"}
+-
+    id: 10
+    name: "Eric"
+    surname: "Deutsch"
+    company: "Institute for Systems Biology"
+    title: "Senior Research Scientist"
+    bio: "Dr. Deutsch’s research activities include software development for the analysis and integration of data for systems biology research. "
+    thumbnailUrl: EricDeutsch.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "ISB", title: "Institute for Systems Biology", url: "https://www.systemsbiology.org/bio/eric-deutsch-phd/"}
+    social:
+      - {name: "twitter", link: "https://twitter.com/ericwdeutsch"}
+      - {name: "github", link: "https://github.com/edeutsch"}
+-
+    id: 11
+    name: "John"
+    surname: "Moult"
+    company: "Institute for Bioscience and Biotechnology Research"
+    title: ""
+    bio: "Modeling of effects of single nucleotide polymorphisms (SNPs) on protein structure and human diseases."
+    thumbnailUrl: JohnMoult.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "IBBR", title: "Institute for Bioscience and Biotechnology Research", url: "http://moult.ibbr.umd.edu/"}
+-
+    id: 12
+    name: "Lydie"
+    surname: "Lane"
+    company: "Swiss Institute of Bioinformatics"
+    title: ""
+    bio: "Annotating the effects of human protein variations in the context of cancers and genetic diseases, and analysing results of high-throughput experiments to shed light on the function of selected sets of uncharacterized human proteins"
+    thumbnailUrl: LydieLane.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "SIB", title: "Swiss Institute of Bioinformatics", url: "http://www.sib.swiss/bairoch-amos-lane-lydie/"}
+-
+    id: 13
+    name: "Torsten"
+    surname: "Schwede"
+    company: "University of Basel, Biozentrum"
+    title: ""
+    bio: "Torsten develops computer programs which allow to model the structure of proteins that have not previously been elucidated experimentally."
+    thumbnailUrl: TorstenSchwede.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "U. Basel", title: "University of Basel", url: "http://www.biozentrum.unibas.ch/research/groups-platforms/overview/unit/schwede/"}
+-
+    id: 14
+    name: "Jianjiong"
+    surname: "Gao"
+    company: "Memorial Sloan Kettering Cancer Center"
+    title: ""
+    bio: ""
+    thumbnailUrl: JianjiongGao.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "MSKCC", title: "Memorial Sloan Kettering Cancer Center", url: "https://www.mskcc.org/research-areas/labs/members/jianjiong-gao-01"}
+-
+    id: 15
+    name: "Julia"
+    surname: "Koehler Lehmann"
+    company: "Simons Center for Data Analysis"
+    title: ""
+    bio: ""
+    thumbnailUrl: JuliaKoehlerLehmann.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "simonsfoundation", title: "Simons Foundation", url: "https://www.simonsfoundation.org/computational-centers/simons-center-for-data-analysis/systems-biology/julia-koehler-leman/"}
+-
+    id: 16
+    name: "Andy"
+    surname: "Kong"
+    company: "University of Michigan"
+    title: ""
+    bio: ""
+    thumbnailUrl: AndyKong.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "U. Michigan", title: "U. Michigan", url: "http://www.nesvilab.org/labMembers.html"}
+-
+    id: 17
+    name: "Michael"
+    surname: "Hicks"
+    company: "Human Longevity"
+    title: ""
+    bio: ""
+    thumbnailUrl: MichaelHicks.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "HLI", title: "Human Longevity, Inc", url: "http://www.nesvilab.org/labMembers.html"}
+    social:
+      - {name: "linkedin", link: "https://www.linkedin.com/in/mahicks"}
+-
+    id: 18
+    name: "Rachel"
+    surname: "Karchin"
+    company: "Johns Hopkins University"
+    title: ""
+    bio: "We develop computational models to interpret and predict the impact of individual variation in the genome, transcriptome, and proteome. "
+    thumbnailUrl: RachelKarchin.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "John Hopkins", title: "Johns Hopkins University", url: "http://karchinlab.org/"}
+-
+    id: 19
+    name: "Hannah"
+    surname: "Gelman"
+    company: "University of Washington"
+    title: ""
+    bio: ""
+    thumbnailUrl: HannahGelman.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "U. Washington", title: University of Washington", url: "http://faculty.washington.edu/dfowler/people.html"}
+-
+    id: 99
+    name: "Andeas"
+    surname: "Prlic"
+    company: "RCSB PDB, UCSD"
+    title: "Technical and Scientific Team Lead RCSB Protein Data Bank"
+    bio: ""
+    thumbnailUrl: AndreasPrlic.jpg
+    rockstar: true
+    ribbon:
+      - {abbr: "RCSB PDB", title: "RCSB Protein Data Bank", url: "http://www.rcsb.org"}
+    social:
+      - {name: "google-plus", link: "https://plus.google.com/+AndreasPrlic"}
+      - {name: "twitter", link: "https://twitter.com/andorsch"}
+      - {name: "facebook", link: "https://www.facebook.com/andreas.prlic"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/andreasprlic"}

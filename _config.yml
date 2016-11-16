@@ -44,8 +44,9 @@ registerUrl: "https://secure.qgiv.com/for/ifsbevents/event/778505/"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/about/", text: "About"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/register/", text: "Registration"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/blog/", text: "Blog"}
@@ -200,7 +201,7 @@ blogCommentsEnabled: true
 discusShortName: "genevariation3d"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
