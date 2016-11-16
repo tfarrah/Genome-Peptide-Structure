@@ -8,7 +8,7 @@
   thumbnailUrl: StephenKBurley.jpg
   rockstar: true
   ribbon:
-    - {abbr: "RCSB PDB, Rutgers University", title: "Rutgers University", url: "http://public.proteomics.rutgers.edu/node/9"}
+    - {abbr: "RCSB PDB", title: "Rutgers University", url: "http://public.proteomics.rutgers.edu/node/9"}
 -
   id: 2
   name: "Marija"
@@ -41,13 +41,13 @@
     id: 4
     name: "Hannah"
     surname: "Carter"
-    company: "UCSD"
+    company: "UCSD, Medical Genetics"
     title: ""
     bio: "Dr. Hannah Carter’s research focuses on computationally modeling how DNA mutations in tumor genomes impact intracellular biological processes and cellular behaviors, and how these cellular level changes cause cancer."
     thumbnailUrl: HannahCarter.jpg
     rockstar: true
     ribbon:
-      - {abbr: "UCSD", title: "UCSD", url: "https://healthsciences.ucsd.edu/som/medicine/divisions/med-genetics/research/Pages/carter-lab.aspx"}
+      - {abbr: "UCSD", title: "UCSD Medical Genetics", url: "https://healthsciences.ucsd.edu/som/medicine/divisions/med-genetics/research/Pages/carter-lab.aspx"}
 -
     id: 5
     name: "Gil"
@@ -154,7 +154,7 @@
     id: 14
     name: "Jianjiong"
     surname: "Gao"
-    company: "Memorial Sloan Kettering Cancer Center"
+    company: "Memorial Sloan Kettering Cancer Center, cBioPortal"
     title: ""
     bio: ""
     thumbnailUrl: JianjiongGao.jpg
